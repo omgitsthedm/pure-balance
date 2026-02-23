@@ -1,0 +1,13 @@
+# Pure Balance Holistic Veterinary Services
+# https://purebalancevet.com
+
+User-agent: *
+Allow: /
+
+Sitemap: https://purebalancevet.com/sitemap.xml
+
+Crawl-delay: 1
+
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$

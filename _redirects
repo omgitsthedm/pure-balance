@@ -1,0 +1,12 @@
+/pricing   /pricing.html   200
+/book      /book.html      200
+/about     /about.html     200
+/faq       /faq.html       200
+/what-we-treat /what-we-treat.html 200
+/contact   /contact.html   200
+/privacy   /privacy.html   200
+/terms     /terms.html     200
+
+# Old services pages redirect to What We Treat
+/services                         /what-we-treat  301
+/services/*                       /what-we-treat  301
