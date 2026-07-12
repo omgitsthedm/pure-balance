@@ -6,7 +6,7 @@
 - Dev/preview: `npx serve .` (or Netlify dev) — static site, no build
 - Build: none (`publish = "."`)
 - Lint/format: none defined
-- Deploy: `git push origin master` → Netlify auto-publishes (**push = production deploy** → needs `APPROVE LIVE CHANGE`)
+- Deploy: `git push origin master` → Netlify auto-publishes (**push = production deploy** → needs clear, scoped confirmation from David)
 - ⚠️ `/contact` is a real Netlify lead form. Pricing-page figures are client-owned — don't alter without approval.
 
 ## Client Info

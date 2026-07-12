@@ -45,7 +45,7 @@ Static HTML/CSS/JS (9 pages: home, about, what-we-treat, pricing, faq, book, con
 - Dev / preview: serve the folder statically (e.g. `npx serve .` or Netlify dev); no build needed.
 - Build: none (`publish = "."`, static).
 - Lint/format: none defined.
-- Deploy: `git push origin master` → Netlify auto-publishes (push = production deploy → gated by `APPROVE LIVE CHANGE`).
+- Deploy: `git push origin master` → Netlify auto-publishes (push = production deploy → gated by clear, scoped confirmation from David).
 
 ## Locked Rules
 

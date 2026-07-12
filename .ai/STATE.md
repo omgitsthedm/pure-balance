@@ -47,7 +47,7 @@
 
 - `.env`/secrets; pricing/medical-service copy without approval.
 - The forced `→ 404` redirects (keep internal docs private).
-- `git push` to `master` (= production deploy) without `APPROVE LIVE CHANGE`.
+- `git push` to `master` (= production deploy) without clear, scoped confirmation from David.
 
 ## Proposed Changes / Inbox
 
